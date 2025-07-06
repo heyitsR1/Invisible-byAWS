@@ -1,0 +1,13 @@
+# Sensitive Keys
+client_private.key
+client_public.key
+wg-client.conf
+
+# Terraform State Files
+*.tfstate
+*.tfstate.backup
+
+# System Files
+*.log
+*.swp
+*.DS_Store
