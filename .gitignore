@@ -11,3 +11,5 @@ wg-client.conf
 *.log
 *.swp
 *.DS_Store
+
+.terraform/
