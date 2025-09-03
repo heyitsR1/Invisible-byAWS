@@ -146,7 +146,7 @@ WireGuard establishes an encrypted tunnel between your device and the EC2 server
 This project is for personal learning and demonstration purposes. Use responsibly.
 
 ---
-##Credit & Inspiration
+## Credit & Inspiration
 
 This project draws inspiration from [ravikiranvm/CloudVPN](https://github.com/ravikiranvm/CloudVPN)
 , which offers a cost-effective, Terraform-driven, WireGuard-based personal VPN on AWS designed to run within free-tier limits 
